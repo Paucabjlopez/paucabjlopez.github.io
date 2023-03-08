@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,00;1,200&display=swap" rel="stylesheet" />
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@40,300,0,-25" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+        <link rel="stylesheet" href="css/style.css" />
+    <title>Curriculum Vitae</title>
+
+</head>
+
+<body>
+    <div class="container">
+        <aside>
+            <div class="avatar">
+                <img src="imagenes cv/32.jpg" alt="rene-favaloro" height="180px" width="180px">
+            </div>
+            <div class="contact">
+                <h2 class="margin-title">Mi Contacto</h2>
+            </div class="flex-container margin-row">
+            <span class="material-symbols-outlined">
+                location_on </span>
+            Calle Salta n° 748, La Plata, Buenos Aires.
+
+            <div class="flex-container margin-row">
+                <span class="material-symbols-outlined">
+                    mail
+                </span>
+                <p> morrinsong@hotmail.com.</p>
+            </div class="flex-container margin-row">
+            <span class="material-symbols-outlined">
+                computer </span> www.morrinson.com.
+
+            <div class="HABILIDADES">
+                <h2 class="margin-title"> HABILIDADES</h2>
+            </div class="flex-container margin-row">
+            <span> <img src="imagenes cv/radio_button_unchecked_FILL1_wght600_GRAD0_opsz40.png" alt="" height="12px" width="12px"> </span>
+            Tutorización de alumnos
+
+            <div class="flex-container">
+            </div class="flex-container margin-row">
+            <span> <img src="imagenes cv/radio_button_unchecked_FILL1_wght600_GRAD0_opsz40.png" alt="" height="12px" width="12px"> </span>
+            Creación de material didáctico
+
+            <div>
+            </div class="flex-container margin-row">
+            <span> <img src="imagenes cv/radio_button_unchecked_FILL1_wght600_GRAD0_opsz40.png" alt="" height="12px" width="12px"> </span>
+            Resolución de conflictos
+
+            <div class="contact">
+                <h2 class="margin-title"> IDIOMAS</h2>
+            </div class="flex-container margin-row">
+            <span> <img src="imagenes cv/star_FILL1_wght600_GRAD0_opsz48.png" alt="" height="12px" width="12px"> </span>
+            <span> <img src="imagenes cv/star_FILL1_wght600_GRAD0_opsz48.png" alt="" height="12px" width="12px"> </span>
+            <span> <img src="imagenes cv/star_FILL1_wght600_GRAD0_opsz48.png" alt="" height="12px" width="12px"> </span>
+            Español
+
+            <div class="flex-container">
+            </div class="flex-container margin-row">
+            <span> <img src="imagenes cv/star_FILL1_wght600_GRAD0_opsz48.png" alt="" height="12px" width="12px"> </span>
+            <span> <img src="imagenes cv/star_FILL1_wght600_GRAD0_opsz48.png" alt="" height="12px" width="12px"> </span>
+            <span> <img src="imagenes cv/star_FILL1_wght600_GRAD0_opsz48.png" alt="" height="12px" width="12px"> </span>
+            Ingles
+
+            <div>
+            </div class="flex-container margin-row">
+            <span> <img src="imagenes cv/star_FILL1_wght600_GRAD0_opsz48.png" alt="" height="12px" width="12px"> </span>
+            <span> <img src="imagenes cv/star_FILL1_wght600_GRAD0_opsz48.png" alt="" height="12px" width="12px"> </span>
+            <span> <img src="imagenes cv/star_FILL0_wght600_GRAD0_opsz40.png" alt="" height="12px" width="12px"> </span>
+            Italiano
+            <div>
+            </div class="flex-container margin-row">
+            <span> <img src="imagenes cv/star_FILL1_wght600_GRAD0_opsz48.png" alt="" height="12px" width="12px"> </span>
+            <span> <img src="imagenes cv/star_FILL1_wght600_GRAD0_opsz48.png" alt="" height="12px" width="12px"> </span>
+            <span> <img src="imagenes cv/star_FILL0_wght600_GRAD0_opsz40.png" alt="" height="12px" width="12px"> </span>
+            Frances
+            <div class="contact">
+                <h2 class="margin-title"> DISPONIBILIDAD</h2>
+                
+                <p id="demo"></p>
+
+                <button type="button" id="boton">hacer click aqui!</button>
+                <script src="js/funcion.js">
+                    
+                </script>
+            </body>
+          </html>
+        </aside>
+        <main>
+            <div>
+                <h1>MORRINSON GOMEZ</h1>
+
+            </div>
+            <section>
+                <h3 class="margin-title"> PERFIL PERSONAL</h3>
+                <hr>
+                <P> Profesor de educación secundaria obligatoria y bachillerato especializado en Biología. Tengo un gran interés por
+                    nuevas tecnología y metodologías, por eso me he involucrado en proyectos para el desarrollo de la enseñanza online</P>
+
+            </section>
+            <section>
+               <h3 class="margin-title"> EXPERIENCIA</h3>
+               <hr>
+                <H4 class="experiencia">Profesor de Biología / feb 2019 - presente</H4> 
+                <H5> IES Perez Galdós, Bilbao</H5> 
+                <span> <img src="imagenes cv/radio_button_unchecked_FILL1_wght200_GRAD-25_opsz20.png" alt="" height="10px" width="10px"> </span>
+                Impartición 
+de la asignatura de Biología a alumnos de ESO y Bachillerato 
+<div>
+    <span class="punto"> <img src="imagenes cv/radio_button_unchecked_FILL1_wght200_GRAD-25_opsz20.png" alt="" height="10px" width="10px"> </span>
+Creación de material pedagógico online </div>
+<div>
+    <span class="punto"> <img src="imagenes cv/radio_button_unchecked_FILL1_wght200_GRAD-25_opsz20.png" alt="" height="10px" width="10px"> </span>
+Colaboración en el proyecto del instituto "virtualización de  la enseñanza" 
+para impartir enseñanza online</div>
+<H4>Profesor agosto 2014 - oct 2016</H4> 
+<H5> Academia Master, Bilbao</H5>
+<div class="flex-container margin-row">
+    <span class="punto"> <img src="imagenes cv/radio_button_unchecked_FILL1_wght200_GRAD-25_opsz20.png" alt="" height="10px" width="10px"> </span>
+    </span>
+    </span>
+    Creación de ejercicios y corrección
+
+</div class="flex-container margin-row">
+<span> <img src="imagenes cv/radio_button_unchecked_FILL1_wght200_GRAD-25_opsz20.png" alt="" height="10px" width="10px"> </span>
+
+</span> Impartición de clases de apoyo de matemáticas y ciencias a alumnos de primaria, secundaria y bachillerato
+<div class="flex-container margin-row">
+    <span> <img src="imagenes cv/radio_button_unchecked_FILL1_wght200_GRAD-25_opsz20.png" alt="" height="10px" width="10px"> </span>
+
+    </span> Grupos de 1 a 10 alumnos por clase.
+
+</div>
+<section>
+    <h3 class="margin-title"> PERFIL PERSONAL</h3>
+    <hr>
+    <H4>Máster en Formación del Profesorado 2014</H4>
+        <H5>UNED</H5>
+        <H4>Título de Grado en Biología 2013</H4>
+            <H5>Universidad de Bilbao</H5>
+        </main>
+    </div>
+
+</body>
+
+</html>
